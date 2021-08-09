@@ -9,6 +9,3 @@
 
 # Check my IBM DEVELOPERWORKS RECIPES at
   https://developer.ibm.com/recipes/author/dalpont/
-
-# Check my BLOG with some of my HOME PROJECTS at
-  https://techlabgarage.wordpress.com
