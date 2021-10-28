@@ -4,8 +4,6 @@
 # Check my LINKEDIN at
   https://www.linkedin.com/in/ayrondalpont
 
-# Check my IBM CERTIFICATIONS at
+# Check my CERTIFICATIONS at
   https://www.credly.com/users/ayron-dal-pont/badges
 
-# Check my IBM DEVELOPERWORKS RECIPES at
-  https://developer.ibm.com/recipes/author/dalpont/
