@@ -1,5 +1,5 @@
-# Visit my DIGITAL CV at
-  https://ayrondp.github.io/digital-cv  
+# Open my DIGITAL CV at
+  https://github.com/ayrondp/digital-cv/blob/main/CV_Ayron_Dal_Pont_v5.pdf
 
 # Check my LINKEDIN at
   https://www.linkedin.com/in/ayrondalpont
