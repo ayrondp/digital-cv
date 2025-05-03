@@ -52,7 +52,7 @@ const PDFStart = nameRoute => {
 }
 
 const startPdf = () => {
-    PDFStart('CV_Ayron_Dal_Pont_v5.pdf')
+    PDFStart('./CV_Ayron_Dal_Pont_v5.pdf')
 }
 
 window.addEventListener('load', startPdf);
