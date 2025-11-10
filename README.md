@@ -3,7 +3,7 @@
 # **Ayron Dal Pont**  
 Hortolândia, São Paulo, Brazil  
 📞 +55 19 98848-6821 | ✉️ ayrondp@gmail.com  
-🌐 [GitHub CV](https://github.com/ayrondp/digital-cv) | [LinkedIn](https://www.linkedin.com/in/ayrondalpont) | [IBM Certifications](https://www.credly.com/users/ayron-dal-pont/badges)
+🌐 [GitHub CV](https://github.com/ayrondp/digital-cv) | [LinkedIn](https://www.linkedin.com/in/ayrondalpont) | [Credly Badges](https://www.credly.com/users/ayron-dal-pont/badges)
 
 ---
 
