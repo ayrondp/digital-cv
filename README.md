@@ -1,24 +1,16 @@
----
-
-# **Ayron Dal Pont**  
+## **Ayron Dal Pont**  
 Hortolândia, São Paulo, Brazil  
 📞 +55 19 98848-6821 | ✉️ ayrondp@gmail.com  
 🌐 [GitHub CV](https://github.com/ayrondp/digital-cv) | [LinkedIn](https://www.linkedin.com/in/ayrondalpont) | [Credly Badges](https://www.credly.com/users/ayron-dal-pont/badges)
 
----
-
 ## **Professional Objective**  
 As an Associate Director and Enterprise Architect, I aim to lead and influence global technology initiatives with expertise in observability, integration, automation, cybersecurity, and artificial intelligence.
 
----
-
 ## **Professional Summary**  
 - Computer Science graduate (UFSC) with a postgraduate degree in Master Business in IT (UniAnchieta).  
-- Over 22 years of IT experience, including 20 years in multinational environments.  
+- Over 26 years of IT experience, including 21 years in multinational environments.  
 - Proven leadership in global innovation, automation, and architecture projects across Latin America and the USA.  
 - Dual citizenship: Brazilian and Italian, with valid passports and US visa.
-
----
 
 ## **Core Competencies**  
 - **Certifications**: IBM Thought Leader Architect, Open Group Distinguished Architect, Huawei HCIA-AI, Zabbix ZCP/ZCS, ScienceLogic Expert.  
@@ -29,7 +21,7 @@ As an Associate Director and Enterprise Architect, I aim to lead and influence g
 - **Development Tools**: Docker, Grafana, Prometheus, Ansible, RocketChat, Jenkins, OpenShift.  
 - **Security & AI**: Ethical hacking, GenAI integration, AI-driven alerting, and data behavior analysis.
 
----
+<div style="page-break-after: always;"></div>
 
 ## **Professional Experience**
 
@@ -59,14 +51,12 @@ As an Associate Director and Enterprise Architect, I aim to lead and influence g
 - Oversaw incident, change, and problem management for enterprise environments.  
 - Led improvement projects for clients including Ambev, Perdigão, Sant Gobain, and Ameriprise.
 
----
+<div style="page-break-after: always;"></div>
 
 ## **Education**
 
 - **Postgraduate**: Master Business in Information Technology – UniAnchieta, SP (2009–2011)  
 - **Undergraduate**: Computer Science – UFSC, SC (1995–1999)
-
----
 
 ## **Certifications & Publications (Recent)**
 
@@ -81,8 +71,6 @@ As an Associate Director and Enterprise Architect, I aim to lead and influence g
 | 2020 | Certified Expert | ScienceLogic |
 | 2020 | DeveloperWorks Recipes (HTTPS, SNMP, SL1 API) | IBM/ScienceLogic |
 
----
-
 ## **Languages**
 
 | Language    | Understanding | Speaking | Writing |
@@ -92,21 +80,14 @@ As an Associate Director and Enterprise Architect, I aim to lead and influence g
 | Spanish     | Good          | Basic    | Basic   |
 | Italian     | Basic         | Basic    | Basic   |
 
----
+<div style="page-break-after: always;"></div>
 
 ## **Personal Interests**
-- **Martial arts (Black belt in Karate)** – demonstrating discipline, focus, and resilience  
-- **Technology tinkering** – Raspberry Pi and Arduino projects  
-- **Aerial robotics** – building and flying quadcopters
-
----
+- Martial arts (Black belt in Karate): demonstrating discipline, focus, and resilience  
+- Technology tinkering: Raspberry Pi and Arduino projects demonstrating curiosity and hands-on problem solving  
+- Aerial robotics: building and flying quadcopters, demonstrating technical creativity and precision
+- Sport shooting: demonstrating concentration, precision, responsibility, and emotional control
+- Amateur radio operation (Ham radio): demonstrating communication skills, and electronics knowledge
 
 ## **Keywords & Technologies**  
-IT Architecture, Mentoring, Docker, Zabbix, Grafana, Prometheus, Ansible, RocketChat, Jenkins, OpenShift, SaaS Cloud (AWS, GCP, Azure, IBM Cloud), Shell Programming, Python, AIX, Linux, Monitoring, Data Behavior Analysis, Artificial Intelligence, REST API, Network, Firewall, Ethical Hacking, Raspberry Pi, Arduino (SMS, GSM, GPS, Wi-Fi), Quadcopter.
-
----
-
-## **Note**
-This CV was professionally formatted and enhanced with the assistance of an AI companion to ensure clarity, structure, and impact.
-
----
+IT Architecture, Mentoring, Docker, Zabbix, Grafana, Prometheus, Ansible, RocketChat, Jenkins, OpenShift, SaaS, Cloud (AWS, GCP, Azure, IBM Cloud), Shell, Programming, Python, AIX, Linux, Monitoring, Data Behavior Analysis, Artificial Intelligence, REST API, Network, Firewall, Ethical Hacking, Raspberry Pi, Arduino (SMS, GSM, GPS, Wi-Fi), Quadcopter.
